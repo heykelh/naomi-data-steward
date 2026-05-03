@@ -11,6 +11,7 @@ const NAV_ITEMS = [
   { href: '/naomi', label: 'Naomi', sublabel: 'Ce qu\'elle fait vraiment' },
   { href: '/donnees', label: 'Données', sublabel: 'Datasets SNCF en live' },
   { href: '/cas-usage', label: 'Cas d\'usage', sublabel: 'Travail du Steward' },
+  { href: '/outils', label: 'Outils', sublabel: 'JIRA · Confluence · PowerBI · Databricks' },
   { href: '/a-propos', label: 'À propos', sublabel: 'Le projet' },
 ];
 
