@@ -18,7 +18,7 @@ export default function HomePage() {
         </p>
 
         <div className="flex flex-wrap gap-3">
-          <Link href="/donnees" className="bg-stone-900 text-white px-6 py-3 text-sm font-medium hover:bg-rose-700 transition-colors flex items-center gap-2">
+          <Link href="/donnees" className="bg-rose-700 text-white px-6 py-3 text-sm font-medium hover:bg-rose-900 transition-colors flex items-center gap-2">
             Voir les données SNCF en live <ArrowRight size={16} />
           </Link>
           <Link href="/lexique" className="border border-stone-900 text-stone-900 px-6 py-3 text-sm font-medium hover:bg-stone-900 hover:text-white transition-colors">
